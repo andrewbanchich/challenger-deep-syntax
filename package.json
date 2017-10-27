@@ -1,17 +1,17 @@
 {
-	"name": "challenger-deep-syntax",
-	"theme": "syntax",
-	"version": "0.12.0",
-	"description": "A fun, colorful theme based on the \"Challenger Deep\" Emacs theme.",
-	"keywords": [
-		"challenger deep",
-		"emacs",
-		"atom",
-		"theme"
-	],
-	"repository": "https://github.com/andrewbanchich/challenger-deep-syntax",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	}
+  "name": "challenger-deep-syntax",
+  "theme": "syntax",
+  "version": "0.13.0",
+  "description": "A fun, colorful theme based on the \"Challenger Deep\" Emacs theme.",
+  "keywords": [
+    "challenger deep",
+    "emacs",
+    "atom",
+    "theme"
+  ],
+  "repository": "https://github.com/andrewbanchich/challenger-deep-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
