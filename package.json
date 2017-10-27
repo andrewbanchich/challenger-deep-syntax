@@ -8,7 +8,7 @@
 		"emacs",
     "theme"
   ],
-  "repository": "https://github.com/atom/challenger-deep-syntax",
+  "repository": "https://gitlab.com/andrewbanchich/challenger-deep-atom-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
