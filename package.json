@@ -1,11 +1,11 @@
 {
   "name": "challenger-deep-syntax",
   "theme": "Callenger Deep",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A fun, colorful theme based on the \"Challenger Deep\" Emacs theme.",
   "keywords": [
     "challenger deep",
-		"emacs",
+    "emacs",
     "theme"
   ],
   "repository": "https://github.com/andrewbanchich/challenger-deep-syntax",
