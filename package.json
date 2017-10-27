@@ -1,6 +1,6 @@
 {
   "name": "challenger-deep-syntax",
-  "theme": "Callenger Deep",
+  "theme": "syntax",
   "version": "0.2.0",
   "description": "A fun, colorful theme based on the \"Challenger Deep\" Emacs theme.",
   "keywords": [
