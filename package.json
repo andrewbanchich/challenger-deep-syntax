@@ -1,0 +1,16 @@
+{
+  "name": "challenger-deep-syntax",
+  "theme": "Callenger Deep",
+  "version": "0.1.0",
+  "description": "A fun, colorful theme based on the \"Challenger Deep\" Emacs theme",
+  "keywords": [
+    "challenger deep",
+		"emacs",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/challenger-deep-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
